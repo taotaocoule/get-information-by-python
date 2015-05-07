@@ -1,4 +1,4 @@
-import urllib2
+ï»¿import urllib2
 import urllib
 import re
 word=raw_input("ÊäÈë¹Ø¼ü´Ê")
